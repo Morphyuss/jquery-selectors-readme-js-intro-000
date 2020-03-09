@@ -8,11 +8,6 @@ function lastImageSelector() {
   return ($('img').last());
 }
 
-
-
-//	$( "li" ).last().css( "background-color", "red" );
-
-
-/*  $(document).ready(function(){
-  $("div").last();
-});  */
+function ninjaBabySelector() {
+  return($('#baby-ninja'));
+}
